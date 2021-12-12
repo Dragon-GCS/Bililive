@@ -3,7 +3,7 @@ __pycache__/
 .mypy_cache/
 
 data/
-venv/
+.venv/
 
 .vscode/*
 !.vscode/launch.json
